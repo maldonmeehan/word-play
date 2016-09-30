@@ -1,6 +1,6 @@
 # _Word Play_
 
-#### _jQuery to create grocery list from user input_
+#### _Word Play Create a form where users may enter a sentence using looping and arrays_
 
 #### By _**Stephanie Gurung & Maldon Meehan**_
 
